@@ -58,6 +58,6 @@ Nyumabi GmbH wants to estimate property costs in Bengaluru to make informed inve
 ## 🧪 Results
 
 - The final model offers reasonable predictive performance.
-- Random Forest showed the best results in capturing non-linear relationships in the data.
+- Ridge Regression showed the best results in capturing non-linear relationships in the data.
 
 ---
